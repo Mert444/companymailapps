@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Gold Metallic Shield Shadow / Base -->
+    <path
+        android:fillColor="#1E170A"
+        android:strokeColor="#B45309"
+        android:strokeWidth="2"
+        android:pathData="M54,23 L76,31 C76,56 68,72 54,81 C40,72 32,56 32,31 Z" />
+
+    <!-- Inner Gold Shield Bezel Line -->
+    <path
+        android:fillColor="#2E220D"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="1.5"
+        android:pathData="M54,27 L72,34 C72,54 65,68 54,76 C43,68 36,54 36,34 Z" />
+
+    <!-- C-Level Executive Crown Base -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M42,38 L44,45 L54,40 L64,45 L66,38 L60,49 L48,49 Z" />
+
+    <!-- Crown Highlight Layer -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M50,42 L54,40 L58,42 L54,48 Z" />
+
+    <!-- Crown Jewel Spheres -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M42,37 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M54,39 m-1.8,0 a1.8,1.8 0 1,0 3.6,0 a1.8,1.8 0 1,0 -3.6,0" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M66,37 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+
+    <!-- Executive Monogram "E" -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M44,52 L59,52 L59,55 L48,55 L48,59 L57,59 L57,62 L48,62 L48,67 L60,67 L60,70 L44,70 Z" />
+
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M44,52 L59,52 L59,53.5 L46.5,53.5 L46.5,70 L44,70 Z" />
+
+    <!-- Sleek Golden Quill Pen (Diagonal Quill) -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M66,48 C63,52 58,58 52,65 L50,69 L54,67 C61,61 67,56 71,53 C70,51 68,49 66,48 Z" />
+
+    <!-- Pen Nib Tip -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,69 L47,72 L51,70 Z" />
+
+    <!-- Executive Star Sparkle (Top Right Highlight) -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M70,30 L71.5,33.5 L75,35 L71.5,36.5 L70,40 L68.5,36.5 L65,35 L68.5,33.5 Z" />
+</vector>

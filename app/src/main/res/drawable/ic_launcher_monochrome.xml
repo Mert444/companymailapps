@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Monochrome Shield & Crown Outline -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M54,23 L76,31 C76,56 68,72 54,81 C40,72 32,56 32,31 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,38 L44,45 L54,40 L64,45 L66,38 L60,49 L48,49 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,52 L59,52 L59,55 L48,55 L48,59 L57,59 L57,62 L48,62 L48,67 L60,67 L60,70 L44,70 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,48 C63,52 58,58 52,65 L50,69 L54,67 C61,61 67,56 71,53 Z" />
+</vector>

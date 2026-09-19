@@ -1,0 +1,6 @@
+{
+  "name": "ExecTranslate",
+  "description": "C-Level E-Mail-Übersetzer für professionelle, diplomatische und bestimmte Business-Kommunikation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
